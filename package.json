@@ -1,0 +1,34 @@
+{
+  "name": "multi-agent-audit-trail",
+  "version": "1.0.0",
+  "description": "Comprehensive provenance tracking that logs every decision, tool call, and data access across agent swarms with cryptographic verification for regulatory compliance",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "audit",
+    "provenance",
+    "compliance",
+    "agent",
+    "tracking"
+  ],
+  "author": "yksanjo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "signale": "^1.4.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.10.0",
+    "@types/signale": "^1.4.7",
+    "@types/uuid": "^9.0.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.2"
+  }
+}
