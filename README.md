@@ -1,5 +1,12 @@
 # multi-agent-audit-trail
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/multi-agent-audit-trail/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/multi-agent-audit-trail/actions)
+![License](https://img.shields.io/github/license/yksanjo/multi-agent-audit-trail)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/multi-agent-audit-trail)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/multi-agent-audit-trail)
+
 ## Detailed Description
 
 multi-agent-audit-trail is maintained as an industry-grade software project with production-ready engineering practices.  
